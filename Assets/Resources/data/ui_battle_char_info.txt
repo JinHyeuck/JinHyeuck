@@ -1,0 +1,4 @@
+Text_stamina
+Text_cost
+Text_damage
+Text_skill_damage
